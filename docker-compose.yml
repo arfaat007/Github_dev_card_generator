@@ -1,0 +1,19 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+    volumes:
+      - ./backend/static:/app/static
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "80:80"
+    environment:
+      - BACKEND_URL=http://localhost:8080
+    depends_on:
+      - backend
