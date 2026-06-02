@@ -5,7 +5,13 @@ A web-based AI-powered application that generates a personalized developer profi
 The app fetches GitHub profile data, analyzes the developer’s repositories and skills using Gemini AI, and generates a clean shareable developer card.
 
 ---
+## 🌐 Live Demo
 
+Check out the live project here:
+
+🔗 [GitHub Dev Card Generator](https://github-card-generator-153768643879.europe-west1.run.app)
+
+---
 ## 🚀 Features
 
 - Search any public GitHub username
