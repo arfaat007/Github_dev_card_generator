@@ -108,7 +108,7 @@ Github_dev_card_generator/
 
 ### Generated Developer Card
 
-![Generated Card](screenshots/generated_card.png)
+![Generated Card](screenshots/screenshot1.jpeg)
 
 ### Live Demo
 
