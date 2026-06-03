@@ -104,7 +104,7 @@ Github_dev_card_generator/
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/WhatsApp Image 2026-06-03 at 4.36.02 PM.jpeg)
 
 ### Generated Developer Card
 
