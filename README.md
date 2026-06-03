@@ -104,7 +104,7 @@ Github_dev_card_generator/
 
 ### Home Page
 
-![Home Page](home_page.jpeg)
+![Home Page](screenshots/home_page.jpeg)
 
 ### Generated Developer Card
 
