@@ -112,7 +112,7 @@ Github_dev_card_generator/
 
 ### Live Demo
 
-![Live Demo](screenshots/live_demo.png)
+![Live Demo](screenshots/screenshot2.jpeg)
 
 ---
 
